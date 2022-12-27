@@ -1,1 +1,3 @@
-import Queen
+From Queen import Menu
+Menu()
+
